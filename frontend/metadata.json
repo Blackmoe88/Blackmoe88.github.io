@@ -1,0 +1,7 @@
+{
+  "name": "ClearCaption Live",
+  "description": "A real-time, accessible live captioning and transcription assistant designed for Deaf and hard-of-hearing users, featuring high-contrast display and exportable history.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
